@@ -20,6 +20,7 @@ gem 'slim-rails'
 
 # Use React
 gem 'react-rails', '~> 1.0'
+gem 'marked-rails'
 
 # Use rails_config
 gem 'config'
